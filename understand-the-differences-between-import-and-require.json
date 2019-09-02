@@ -1,0 +1,1 @@
+{"index.js":"\n\"use strict\";\nimport { capitalizeString } from \"string_functions\";\ncapitalizeString(\"hello!\");"}
